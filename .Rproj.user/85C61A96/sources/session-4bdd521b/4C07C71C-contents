@@ -1,0 +1,14 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Aditya Website"
+  navbar: 
+    left:
+      - index.qmd
+      - Introduction.qmd
+      
+format:
+  html:
+    theme: cosmo
