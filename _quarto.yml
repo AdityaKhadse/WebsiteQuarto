@@ -13,3 +13,4 @@ website:
 format:
   html:
     theme: superhero
+    css: style.css
