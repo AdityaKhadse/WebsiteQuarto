@@ -9,7 +9,3 @@ website:
       - index.qmd
       - Introduction.qmd
       - about.qmd
-      
-format:
-  html:
-    theme: cosmo

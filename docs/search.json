@@ -46,14 +46,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "Welcome Hello! I’m Aditya Khadse, a passionate R user and developer with a focus on creating interactive and engaging data visualizations. This about me page is written in R Quarto, a powerful Markdown language that allows me to seamlessly integrate code, text, and visualizations."
   },
   {
     "objectID": "about.html#quarto",
     "href": "about.html#quarto",
     "title": "About",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "section": "Quarto",
+    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
   },
   {
     "objectID": "about.html#running-code",
@@ -61,5 +61,54 @@
     "title": "About",
     "section": "Running Code",
     "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "about.html#about",
+    "href": "about.html#about",
+    "title": "About",
+    "section": "About",
+    "text": "About\nWelcome Hello! I’m [Your Name], a passionate R user and developer with a focus on creating interactive and engaging data visualizations. This about me page is written in R Quarto, a powerful Markdown language that allows me to seamlessly integrate code, text, and visualizations.\nBackground I have [number] years of experience working with R, starting with [initial project or experience]. Since then, I’ve honed my skills in data manipulation, visualization, and storytelling. My expertise lies in [specific areas, e.g., machine learning, data science, or bioinformatics].\n\nSkills\nProgramming languages: R, Python Data visualization: ggplot2, plotly, shiny Data manipulation: dplyr, tidyr, data.table Machine learning: caret, dplyr, xgboost Projects Some notable projects I’ve worked on include:\n\n[Project 1]: Developed an R Shiny app for [brief description]\n[Project 2]: Created an interactive dashboard using plotly and ggplot2 for [brief description]\n[Project 3]: Built a machine learning model using caret and dplyr for [brief description] Education I hold a [degree] in [field] from [university]. During my studies, I gained a strong foundation in statistics, computer science, and data analysis.\n\nContact If you’re interested in collaborating or learning more about my work, feel free to reach out to me at [your email address]. You can also find me on [social media platforms, e.g., GitHub, Twitter, or LinkedIn]."
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "Skills",
+    "text": "Skills\nProgramming languages: R, Python Data visualization: ggplot2, plotly, shiny Data manipulation: dplyr, tidyr, data.table Machine learning: caret, dplyr, xgboost Projects Some notable projects I’ve worked on include:\n[Project 1]: Developed an R Shiny app for [brief description] [Project 2]: Created an interactive dashboard using plotly and ggplot2 for [brief description] [Project 3]: Built a machine learning model using caret and dplyr for [brief description] Education I hold a [degree] in [field] from [university]. During my studies, I gained a strong foundation in statistics, computer science, and data analysis.\nContact If you’re interested in collaborating or learning more about my work, feel free to reach out to me at [your email address]. You can also find me on [social media platforms, e.g., GitHub, Twitter, or LinkedIn]."
+  },
+  {
+    "objectID": "about.html#work-experience",
+    "href": "about.html#work-experience",
+    "title": "About",
+    "section": "Work Experience",
+    "text": "Work Experience\nP360 Solutions (May 2022 - May 2024)\nSoftware Engineer\n\nDeveloped and maintained over 5 critical software modules, reducing system downtime by 15% and enhancing performance metrics by 20%.\nLeveraged my skills to implement 3 major software solutions, improving data processing efficiency by 30% and reducing project completion time by 25%.\nCollaborated with cross-functional teams across 3 departments to gather requirements, resulting in a 95% user satisfaction rate and a 20% reduction in post-launch bug fixes.\nIdentified and resolved over 50 critical application issues, leading to a 25% improvement in overall system stability.\nImplemented DevOps practices, reducing deployment time by 30% and accelerating the release cycle from monthly to bi-weekly updates."
+  },
+  {
+    "objectID": "about.html#sec-past-accomplishments",
+    "href": "about.html#sec-past-accomplishments",
+    "title": "About",
+    "section": "Past Accomplishments",
+    "text": "Past Accomplishments\n\nAchieved a top 10 ranking out of 600 students in the first semester, reflecting exceptional academic performance and dedication.\nLed the organization of the international conference Spandan, with over 500 participants, successfully managing a team of 30 and ensuring a 20% increase in attendance compared to previous years.\nDeveloped and executed marketing strategies for university festivals, increasing event participation by 35% and boosting social media engagement by 50%.\nCoordinated the Droid Android development competition with over 100 participants, increasing participation by 25% compared to prior events."
+  },
+  {
+    "objectID": "about.html#objectives",
+    "href": "about.html#objectives",
+    "title": "About",
+    "section": "OBJECTIVES",
+    "text": "OBJECTIVES\nSeeking to build a career in data analytics, leveraging skills in data analytics and software development to contribute to industry-leading organizations."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "EDUCATION",
+    "text": "EDUCATION\nGeorge Mason University (Expected Dec 2026)\nMaster’s in Data Analytics Engineering\n\nYeshwantrao Chavan College of Engineering (June 2022)\nBachelor’s of Engineering in Computer Technology"
+  },
+  {
+    "objectID": "about.html#languages",
+    "href": "about.html#languages",
+    "title": "About",
+    "section": "Languages",
+    "text": "Languages\nEnglish, Hindi and Marathi\nContact If you’re interested in collaborating or learning more about my work, feel free to reach out to me at adikhadase044@gmail.com . You can also find me on Github, LinkedIn."
   }
 ]
