@@ -3,7 +3,7 @@
     "path": "C:/Users/adikh/OneDrive/Desktop/Stat/WebsiteQuarto/about.qmd",
     "project_path": "about.qmd",
     "type": "quarto_markdown",
-    "hash": "2659494778",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1727297788180.0,
@@ -17,16 +17,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "0,0",
-        "scrollLine": "44",
-        "rmdVisualModeLocation": "53:126.54545593261719"
+        "cursorPosition": "8,40",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "2:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1727596367,
+    "lastKnownWriteTime": 1727598414,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1727596367770,
+    "last_content_update": 1727598414137,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -4,25 +4,20 @@ format: html
 editor: visual
 ---
 
-![](images/Profile.jpg){#id .class fig-align="center" width="30%"}
+![](images/Profile.jpg){fig-align="center" style="border-radius: 50%;" width="400" height="400"}
 
 Welcome Hello! I’m **Aditya Khadse**, a passionate R user and developer with a focus on creating interactive and engaging data visualizations. This about me page is written in R Quarto, a powerful Markdown language that allows me to seamlessly integrate code, text, and visualizations.
 
-### Skills
+## Skills {#sec-skills}
 
 **Programming languages:** R, Python, SQL\
 **Databases:** SQL Server, MySQL\
 **Tools / Frameworks:** Spyder, GitHub, Azure Devops, Azure Data Factory, PowerBI, R Studio\
 **Certifications:** Azure Data Fundamentals, Azure AI Fundamentals, Azure Fundamentals\
 **Data visualization:** ggplot2, plotly, shiny  Data manipulation: dplyr, tidyr, data.table\
-**Machine learning:** caret, dplyr, xgboost\
-Projects Some notable projects I’ve worked on include:
+**Machine learning:** caret, dplyr, xgboost
 
--   \[Project 1\]: Developed an R Shiny app for \[brief description\]
--   \[Project 2\]: Created an interactive dashboard using plotly and ggplot2 for \[brief description\]
--   \[Project 3\]: Built a machine learning model using caret and dplyr for \[brief description\] Education I hold a \[degree\] in \[field\] from \[university\]. During my studies, I gained a strong foundation in statistics, computer science, and data analysis.
-
-## Work Experience
+## Work Experience {#sec-work-experience}
 
 **P360 Solutions** (May 2022 - May 2024)\
 Software Engineer
@@ -40,11 +35,11 @@ Software Engineer
 -   Developed and executed marketing strategies for university festivals, increasing event participation by 35% and boosting social media engagement by 50%.
 -   Coordinated the Droid Android development competition with over 100 participants, increasing participation by 25% compared to prior events.
 
-## OBJECTIVES
+## Objectives {#sec-objectives}
 
 Seeking to build a career in data analytics, leveraging skills in data analytics and software development to contribute to industry-leading organizations.
 
-## EDUCATION
+## Education {#sec-education}
 
 **George Mason University** (Expected Dec 2026)\
 Master's in Data Analytics Engineering\
@@ -52,7 +47,7 @@ Master's in Data Analytics Engineering\
 **Yeshwantrao Chavan College of Engineering** (June 2022)\
 Bachelor's of Engineering in Computer Technology
 
-## Languages
+## Languages {#sec-languages}
 
 English, Hindi and Marathi
 

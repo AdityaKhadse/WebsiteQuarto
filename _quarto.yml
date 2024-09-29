@@ -3,9 +3,14 @@ project:
   output-dir: docs
   
 website:
-  title: "Aditya Website"
+  title: "<img src='images/Profile.jpg' alt='Logo' style='height: 40px; border-radius: 50%;'>"
   navbar: 
     left:
       - index.qmd
       - Introduction.qmd
       - about.qmd
+      
+format:
+  html:
+    theme: superhero
+    css: style.css

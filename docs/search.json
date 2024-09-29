@@ -94,15 +94,15 @@
     "objectID": "about.html#objectives",
     "href": "about.html#objectives",
     "title": "About",
-    "section": "OBJECTIVES",
-    "text": "OBJECTIVES\nSeeking to build a career in data analytics, leveraging skills in data analytics and software development to contribute to industry-leading organizations."
+    "section": "Objectives",
+    "text": "Objectives\nSeeking to build a career in data analytics, leveraging skills in data analytics and software development to contribute to industry-leading organizations."
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About",
-    "section": "EDUCATION",
-    "text": "EDUCATION\nGeorge Mason University (Expected Dec 2026)\nMaster’s in Data Analytics Engineering\n\nYeshwantrao Chavan College of Engineering (June 2022)\nBachelor’s of Engineering in Computer Technology"
+    "section": "Education",
+    "text": "Education\nGeorge Mason University (Expected Dec 2026)\nMaster’s in Data Analytics Engineering\n\nYeshwantrao Chavan College of Engineering (June 2022)\nBachelor’s of Engineering in Computer Technology"
   },
   {
     "objectID": "about.html#languages",
@@ -110,5 +110,40 @@
     "title": "About",
     "section": "Languages",
     "text": "Languages\nEnglish, Hindi and Marathi\nContact If you’re interested in collaborating or learning more about my work, feel free to reach out to me at adikhadase044@gmail.com . You can also find me on Github, LinkedIn."
+  },
+  {
+    "objectID": "about.html#sec-work-experience",
+    "href": "about.html#sec-work-experience",
+    "title": "About",
+    "section": "Work Experience",
+    "text": "Work Experience\nP360 Solutions (May 2022 - May 2024)\nSoftware Engineer\n\nDeveloped and maintained over 5 critical software modules, reducing system downtime by 15% and enhancing performance metrics by 20%.\nLeveraged my skills to implement 3 major software solutions, improving data processing efficiency by 30% and reducing project completion time by 25%.\nCollaborated with cross-functional teams across 3 departments to gather requirements, resulting in a 95% user satisfaction rate and a 20% reduction in post-launch bug fixes.\nIdentified and resolved over 50 critical application issues, leading to a 25% improvement in overall system stability.\nImplemented DevOps practices, reducing deployment time by 30% and accelerating the release cycle from monthly to bi-weekly updates."
+  },
+  {
+    "objectID": "about.html#sec-objectives",
+    "href": "about.html#sec-objectives",
+    "title": "About",
+    "section": "Objectives",
+    "text": "Objectives\nSeeking to build a career in data analytics, leveraging skills in data analytics and software development to contribute to industry-leading organizations."
+  },
+  {
+    "objectID": "about.html#sec-education",
+    "href": "about.html#sec-education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nGeorge Mason University (Expected Dec 2026)\nMaster’s in Data Analytics Engineering\n\nYeshwantrao Chavan College of Engineering (June 2022)\nBachelor’s of Engineering in Computer Technology"
+  },
+  {
+    "objectID": "about.html#sec-languages",
+    "href": "about.html#sec-languages",
+    "title": "About",
+    "section": "Languages",
+    "text": "Languages\nEnglish, Hindi and Marathi\nContact If you’re interested in collaborating or learning more about my work, feel free to reach out to me at adikhadase044@gmail.com . You can also find me on Github, LinkedIn."
+  },
+  {
+    "objectID": "about.html#sec-skills",
+    "href": "about.html#sec-skills",
+    "title": "About",
+    "section": "Skills",
+    "text": "Skills\nProgramming languages: R, Python, SQL\nDatabases: SQL Server, MySQL\nTools / Frameworks: Spyder, GitHub, Azure Devops, Azure Data Factory, PowerBI, R Studio\nCertifications: Azure Data Fundamentals, Azure AI Fundamentals, Azure Fundamentals\nData visualization: ggplot2, plotly, shiny  Data manipulation: dplyr, tidyr, data.table\nMachine learning: caret, dplyr, xgboost"
   }
 ]
