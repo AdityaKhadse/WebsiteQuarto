@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Index",
+    "title": "<img src='images/Profile.jpg' alt='Logo' style='height: 40px; border-radius: 50%;'>",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "Welcome Hello! I’m Aditya Khadse, a passionate R user and developer with a focus on creating interactive and engaging data visualizations. This about me page is written in R Quarto, a powerful Markdown language that allows me to seamlessly integrate code, text, and visualizations."
   },
   {
     "objectID": "index.html#quarto",
@@ -23,9 +23,9 @@
   {
     "objectID": "Introduction.html",
     "href": "Introduction.html",
-    "title": "Introduction",
+    "title": "Projects",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "Dummy Projects Page"
   },
   {
     "objectID": "Introduction.html#quarto-intro",
@@ -144,6 +144,20 @@
     "href": "about.html#sec-skills",
     "title": "About",
     "section": "Skills",
-    "text": "Skills\nProgramming languages: R, Python, SQL\nDatabases: SQL Server, MySQL\nTools / Frameworks: Spyder, GitHub, Azure Devops, Azure Data Factory, PowerBI, R Studio\nCertifications: Azure Data Fundamentals, Azure AI Fundamentals, Azure Fundamentals\nData visualization: ggplot2, plotly, shiny  Data manipulation: dplyr, tidyr, data.table\nMachine learning: caret, dplyr, xgboost"
+    "text": "Skills\nProgramming languages: R, Python, SQL\nDatabases: SQL Server, MySQL\nTools / Frameworks: Spyder, GitHub, Azure Devops, Azure Data Factory, PowerBI, R Studio\nCertifications: Azure Data Fundamentals, Azure AI Fundamentals, Azure Fundamentals\nData visualization: ggplot2\nData manipulation: dplyr, tidyr"
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "<img src='images/Profile.jpg' alt='Logo' style='height: 40px; border-radius: 50%;'>",
+    "section": "",
+    "text": "Welcome Hello! I’m Aditya Khadse, a passionate R user and developer with a focus on creating interactive and engaging data visualizations. This about me page is written in R Quarto, a powerful Markdown language that allows me to seamlessly integrate code, text, and visualizations."
+  },
+  {
+    "objectID": "Introduction.html#projects",
+    "href": "Introduction.html#projects",
+    "title": "<img src='images/Profile.jpg' alt='Logo' style='height: 40px; border-radius: 50%;'>",
+    "section": "",
+    "text": "Dummy Projects Page"
   }
 ]

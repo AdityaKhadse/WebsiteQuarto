@@ -14,8 +14,8 @@ Welcome Hello! I’m **Aditya Khadse**, a passionate R user and developer with a
 **Databases:** SQL Server, MySQL\
 **Tools / Frameworks:** Spyder, GitHub, Azure Devops, Azure Data Factory, PowerBI, R Studio\
 **Certifications:** Azure Data Fundamentals, Azure AI Fundamentals, Azure Fundamentals\
-**Data visualization:** ggplot2, plotly, shiny  Data manipulation: dplyr, tidyr, data.table\
-**Machine learning:** caret, dplyr, xgboost
+**Data visualization:** ggplot2\
+**Data manipulation:** dplyr, tidyr\
 
 ## Work Experience {#sec-work-experience}
 

@@ -1,14 +1,14 @@
 {
-    "id": "BC81EA26",
-    "path": "C:/Users/adikh/OneDrive/Desktop/Stat/WebsiteQuarto/about.qmd",
-    "project_path": "about.qmd",
+    "id": "FA05C737",
+    "path": "C:/Users/adikh/OneDrive/Desktop/Stat/WebsiteQuarto/Introduction.qmd",
+    "project_path": "Introduction.qmd",
     "type": "quarto_markdown",
-    "hash": "588722294",
+    "hash": "1864008437",
     "contents": "",
     "dirty": false,
-    "created": 1727297788180.0,
+    "created": 1727296712652.0,
     "source_on_save": true,
-    "relative_order": 4,
+    "relative_order": 3,
     "properties": {
         "rmdVisualMode": "true",
         "rmdVisualWrapConfigured": "true",
@@ -18,15 +18,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "cursorPosition": "0,0",
-        "scrollLine": "9",
-        "rmdVisualModeLocation": "2:0"
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "66:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1727599112,
+    "lastKnownWriteTime": 1727738745,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1727599112228,
+    "last_content_update": 1727738745406,
     "read_only": false,
     "read_only_alternatives": []
 }
