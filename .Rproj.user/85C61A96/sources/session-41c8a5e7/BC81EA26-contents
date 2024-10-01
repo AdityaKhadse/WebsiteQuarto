@@ -2,6 +2,27 @@
 title: "About"
 format: html
 editor: visual
+resources: "/assets/resume.pdf"
+about: 
+  template: solana
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: Gmail
+      icon: envelope
+      href: mailto:adikhadase044@gmail.com
+    - text: Edu Mail
+      icon: chat-text-fill
+      href: mailto:akhadse@gmu.edu
+    - text: linkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/akhadse/
+    - text: Github
+      icon: github
+      href: https://github.com/AdityaKhadse
+    - text: Resume
+      icon: pass-fill
+      href: "/assets/resume.pdf"
 ---
 
 ![](images/Profile.jpg){fig-align="center" style="border-radius: 50%;" width="400" height="400"}
@@ -51,4 +72,4 @@ Bachelor's of Engineering in Computer Technology
 
 English, Hindi and Marathi
 
-Contact If you’re interested in collaborating or learning more about my work, feel free to reach out to me at [adikhadase044\@gmail.com](mailto:adikhadase044@gmail.com) . You can also find me on [Github](https://github.com/AdityaKhadse "github.com/AdityaKhadse"), [LinkedIn](https://www.linkedin.com/in/akhadse "linkedin.com/in/akhadse").
+Contact If you’re interested in collaborating or learning more about my work.
