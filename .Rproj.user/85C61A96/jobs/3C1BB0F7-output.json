@@ -1,0 +1,7 @@
+[1,"==> quarto preview about.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"pandoc \n  to: html\n  output-file: about.html\n  standalone: true\n  title-prefix: >-\n    <img src='images/Profile.jpg' alt='Logo' style='height: 40px; border-radius:\n    50%;'>\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - style.css\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  theme: superhero\n  title: About\n  editor: visual\n  resources: /assets/resume.pdf\n  about:\n    template: solana\n    image-shape: round\n    image-width: 15em\n    links:\n      - text: Gmail\n        icon: envelope\n        href: 'mailto:adikhadase044@gmail.com'\n      - text: Edu Mail\n        icon: chat-text-fill\n        href: 'mailto:akhadse@gmu.edu'\n      - text: linkedIn\n        icon: linkedin\n        href: 'https://www.linkedin.com/in/akhadse/'\n      - text: Github\n        icon: github\n        href: 'https://github.com/AdityaKhadse'\n      - text: Resume\n        icon: pass-fill\n        href: docs/assets/resume.pdf\n  \n"]
+[1,"Output created: docs\\about.html\n\nPreparing to preview\n"]
+[1,"\nWatching files for changes\nBrowse at http://localhost:4446/about.html\n"]
+[1,"GET: /about.html\n"]
+[1,"  /docs/assets/resume.pdf (404: Not Found)\n"]
+[1,"GET: /about.html\n"]

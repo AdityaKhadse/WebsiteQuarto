@@ -22,7 +22,7 @@ about:
       href: https://github.com/AdityaKhadse
     - text: Resume
       icon: pass-fill
-      href: "/assets/resume.pdf"
+      href: "docs/assets/resume.pdf"
 ---
 
 ![](images/Profile.jpg){fig-align="center" style="border-radius: 50%;" width="400" height="400"}

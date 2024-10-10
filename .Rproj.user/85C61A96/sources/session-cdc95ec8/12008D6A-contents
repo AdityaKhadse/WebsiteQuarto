@@ -1,0 +1,9 @@
+x <- c("Male", "Female", "Male", "Female", "Female")
+y <- c("Yes", "No", "Yes", "Yes", "No")
+table(data.frame(x,y))
+
+table(is.na(data.frame(x,y)))
+
+library(tidyverse)
+library(maps)
+dat =maps::votes.repub

@@ -1,0 +1,3 @@
+x <- c("Male", "Female", "Male", "Female", "Female")
+y <- c("Yes", "No", "Yes", "Yes", "No")
+table(x, y)
